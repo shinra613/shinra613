@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Web Dev Enthusiast</h3>
 
-- ➡️ I’m currently working on [on a marketing page](https://promotional-page.vercel.app/)
 
 - 📖 I’m currently learning **ReactJS** 
 
