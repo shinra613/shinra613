@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Web Dev Enthusiast</h3>
 
 
-- 📖 I’m currently learning **ReactJS** 
 
-- 🖋️ I regularly write articles on [https://hackernoon.com/u/akhilvn47](https://hackernoon.com/u/akhilvn47)
 
 - 📧 How to reach me **akhiltechwiz@gmail.com**
 
